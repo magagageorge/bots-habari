@@ -1,11 +1,11 @@
 # Getting Started with Bots Habari
 
-This project was bootstrapped with [Bots Habari](https://github.com/facebook/create-react-app).
+This project was bootstrapped with ReactJs
 
 ## Available Scripts
 
 In the project directory, you can run:
-
+### Development Mode
 ### `npm start`
 
 Runs the app in the development mode.\

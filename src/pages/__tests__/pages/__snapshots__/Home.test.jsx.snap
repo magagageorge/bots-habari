@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`pages/Home test pages/Home should match snapshot 1`] = `
+<div
+  className="container-fluid px-0 px-md-5 animated fadeIn"
+>
+  <div
+    className="row mx-0 px-md-5"
+  >
+    <div
+      className="col-12 px-2 py-4"
+    >
+      <h4
+        className="text-primary"
+      >
+        Most Popular News
+      </h4>
+    </div>
+  </div>
+</div>
+`;

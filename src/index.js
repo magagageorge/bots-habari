@@ -6,14 +6,12 @@ import './assets/css/style.css';
 import './assets/css/animate.min.css';
 import './assets/css/fontawesome-all.min.css';
 import './index.css';
-import App from './App.jsx';
+import App from './App.js';
 import { BrowserRouter } from "react-router-dom";
 import * as serviceWorker from "./serviceWorker";
 
 ReactDOM.render(
-  <BrowserRouter>
-    <App />
-  </BrowserRouter>,
+  <App />,
   document.getElementById("root")
 );
 

@@ -23,16 +23,24 @@ To perfomr Testing in this app kindly type in your command line at in your proje
 
 Launches the test runner in the interactive watch mode.\
 
-### Building
+###Coverage Report
+To generate Code Coverage Report,please use the following command
+
+### `npm test -- --coverage`
+
+The report will be generaged and stored to folder named coverage in the root folder of the project.
+
+### Building The Application
+Kindly use the following command
 ### `npm run build`
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
+Note: Be default the build files are set to run in a root folder of a web server,in case you will deploy in a subfolder you will need to add .htaccess(e.g .for appached) with corresponding configurations for it to run ins subfolder of the server
+
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ### `npm run eject`
 

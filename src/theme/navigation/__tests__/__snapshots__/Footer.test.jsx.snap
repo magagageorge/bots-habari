@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`theme/navigation/Footer test theme/navigation/Footer should match snapshot 1`] = `
+<footer>
+  <div
+    className="footer-bottom-area"
+  >
+    <div
+      className="container"
+    >
+      <div
+        className="footer-border"
+      >
+        <div
+          className="row d-flex align-items-center justify-content-between"
+        >
+          <div
+            className="col-lg-6"
+          >
+            <div
+              className="footer-copy-right"
+            >
+              <p>
+                Copyright ©
+                2021
+                  | Created by Kinggeorge
+              </p>
+            </div>
+          </div>
+          <div
+            className="col-lg-6"
+          >
+            <div
+              className="footer-menu f-right"
+            >
+              <ul />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+`;

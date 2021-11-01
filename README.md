@@ -2,8 +2,6 @@
 
 This project was bootstrapped with ReactJs
 
-## Available Scripts
-
 In the project directory, you can run:
 ### Development Mode
 ### `npm start`
@@ -23,7 +21,7 @@ To perfomr Testing in this app kindly type in your command line at in your proje
 
 Launches the test runner in the interactive watch mode.\
 
-###Coverage Report
+### Coverage Report
 To generate Code Coverage Report,please use the following command
 
 ### `npm test -- --coverage`
